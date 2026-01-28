@@ -11,3 +11,7 @@
 
 ### Outcome
 Built a strong base for Python-based data analysis.
+
+## Day 2
+- Learned loops and control flow in Python
+- Practiced problem-solving using for and while loops
