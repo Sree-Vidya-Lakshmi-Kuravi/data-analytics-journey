@@ -24,3 +24,10 @@ Built a strong base for Python-based data analysis.
 - Learned tuples, dictionaries, and sets
 - Practiced iteration and nested data structures
 - Solved basic data-structure problems
+
+------------------------------------------------------------------------
+
+### Day 4
+- Learned Python functions and modular programming
+- Practiced parameters, return values, and lambda functions
+- Used built-in modules like random
