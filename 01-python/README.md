@@ -38,3 +38,11 @@ Built a strong base for Python-based data analysis.
 - Learned NumPy fundamentals
 - Worked with arrays, slicing, and vectorized operations
 - Applied basic mathematical and aggregation functions
+
+-------------------------------------------------------------------------
+
+### Day 6
+- Introduced to Pandas for data analysis
+- Created and explored DataFrames
+- Learned basic data inspection techniques
+
