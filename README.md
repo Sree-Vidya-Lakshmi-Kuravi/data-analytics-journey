@@ -76,3 +76,9 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 ### Day 7
 - Learnt data visualization using Matplotlib and Seaborn
 - Created basic charts to represent data insights
+
+-------------------------------------------------------------------------
+
+### Day 8
+- Learned MySQL for data analytics
+- Practiced filtering, aggregation, joins, subqueries, and window functions
