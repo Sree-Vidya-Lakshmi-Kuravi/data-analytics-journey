@@ -82,3 +82,12 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 ### Day 8
 - Learned MySQL for data analytics
 - Practiced filtering, aggregation, joins, subqueries, and window functions
+
+-------------------------------------------------------------------------
+
+### Day 9
+- Learned Excel basics for data analytics
+- Practiced core Excel functions and formatting
+- Worked with data validation, sorting, and filtering
+- Handled null values, duplicates, and text cleanup
+- Introduced to Power Query and Pivot Tables
