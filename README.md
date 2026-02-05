@@ -141,3 +141,33 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Understood the complete Power BI workflow
 - Learned data transformation, modeling, DAX basics, and visualization concepts
 - Ready to start building structured Power BI reports
+
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ### Day 1 & 2 – Pandas Data Cleaning & Transformations
+
+**Focus:**
+- Clean and standardize raw sales data
+- Apply business-driven transformations using Pandas
+
+**Tasks Completed:**
+- Loaded and inspected the Superstore Sales dataset
+- Standardized column names for consistency and improved readability
+- Handled missing values and removed duplicate records
+- Corrected data types to support accurate numerical and date-based analysis
+- Exported a cleaned dataset to enable reproducible workflows
+- Applied filtering logic to isolate relevant records for analysis
+- Created derived columns to support business-driven insights
+- Sorted data to highlight key performance trends
+
+**Key Learnings:**
+- High-quality analysis depends on clean and well-structured data
+- Clear documentation of data decisions improves transparency and collaboration
+- Effective transformations should be guided by business questions, not just technical logic
+
+**Outcome:**
+- Produced a clean, analysis-ready dataset
+- Completed two well-documented Pandas notebooks
+- Established a strong foundation for advanced analysis, reporting, and visualization
