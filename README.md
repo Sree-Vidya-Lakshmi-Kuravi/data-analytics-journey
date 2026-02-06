@@ -170,3 +170,30 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
   - Produced a clean, analysis-ready dataset
   - Completed two well-documented Pandas notebooks
   - Established a strong foundation for advanced analysis, reporting, and visualization
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ### Day 3 & 4 – Pandas GroupBy, Merge & End-to-End Analysis
+  
+  **Focus:**
+  - Convert clean data into actionable business insights
+  - Perform end-to-end analysis using aggregation and data reshaping techniques
+  
+  **Tasks Completed:**
+  - Grouped data by key business dimensions such as category, segment, and region
+  - Applied aggregations to analyze sales performance and order distribution
+  - Answered multiple business-focused questions using GroupBy analysis
+  - Created subset DataFrames to simulate real-world split datasets
+  - Merged datasets using appropriate join logic
+  - Built pivot tables to compare performance across dimensions
+  - Reshaped data using melt to support flexible analysis
+  
+  **Key Learnings:**
+  - Aggregation is essential for translating raw data into business insights
+  - Proper join logic ensures data completeness and accuracy
+  - Pivoting and reshaping data enhances analytical and reporting flexibility
+  
+  **Outcome:**
+  - Completed two advanced Pandas notebooks demonstrating analytical thinking
+  - Developed strong end-to-end data analysis capability
+  - Built interview-ready examples of business-driven Pandas analysis
