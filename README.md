@@ -145,7 +145,7 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  # Day 1 & 2 – Pandas Data Cleaning & Transformations
+  ## Day 1 & 2 – Pandas Data Cleaning & Transformations
 
   **Focus:**
   - Clean and standardize raw sales data
@@ -173,7 +173,7 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  ### Day 3 & 4 – Pandas GroupBy, Merge & End-to-End Analysis
+  ## Day 3 & 4 – Pandas GroupBy, Merge & End-to-End Analysis
   
   **Focus:**
   - Convert clean data into actionable business insights
