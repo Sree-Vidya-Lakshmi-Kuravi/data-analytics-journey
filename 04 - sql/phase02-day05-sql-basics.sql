@@ -38,3 +38,4 @@ HAVING SUM(amount) > 3000;
 
 -- Summary:
 -- Practiced filtering, aggregation, GROUP BY and HAVING using business-driven questions.
+
