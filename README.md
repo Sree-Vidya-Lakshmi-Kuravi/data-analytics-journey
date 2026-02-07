@@ -225,3 +225,11 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Created two well-documented SQL files covering fundamentals and joins
 - Built interview-level confidence in SQL querying and join logic
 - Strengthened ability to reason about relational data and business use cases
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 07 — SQL Window Functions & Advanced Analysis
+
+- Applied window functions (ROW_NUMBER, RANK, DENSE_RANK) with PARTITION BY and ORDER BY to perform ranking and top-N analysis within groups.
+- Compared GROUP BY and window functions on the same problems to clearly understand when aggregation vs row-level analysis is required.
+- Wrote interview-grade consolidation queries combining joins and window functions, with clear comments explaining business intent and use cases.
