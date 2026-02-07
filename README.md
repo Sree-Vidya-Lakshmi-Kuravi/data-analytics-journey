@@ -197,3 +197,31 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
   - Completed two advanced Pandas notebooks demonstrating analytical thinking
   - Developed strong end-to-end data analysis capability
   - Built interview-ready examples of business-driven Pandas analysis
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 5 & 6 – SQL Basics and Joins
+
+**Focus:**
+- Build strong SQL query fundamentals
+- Develop clear thinking around multi-table relationships
+
+**Tasks Completed:**
+- Practiced core SQL clauses including SELECT, WHERE, LIKE, IN, and BETWEEN
+- Used aggregation functions (COUNT, SUM, AVG) to answer business questions
+- Applied GROUP BY and HAVING to filter aggregated results correctly
+- Wrote fully commented queries explaining the business intent of each query
+- Implemented INNER JOIN to identify overlapping records across datasets
+- Used LEFT JOIN to retain primary records and identify unmatched entries
+- Analyzed student enrollment overlap using course-based tables
+
+**Key Learnings:**
+- WHERE filters rows before aggregation, while HAVING filters after aggregation
+- Aggregations are essential for translating raw data into business insights
+- Join type selection (INNER vs LEFT) depends on the business question
+- Clear comments improve readability and interview readiness of SQL code
+
+**Outcome:**
+- Created two well-documented SQL files covering fundamentals and joins
+- Built interview-level confidence in SQL querying and join logic
+- Strengthened ability to reason about relational data and business use cases
