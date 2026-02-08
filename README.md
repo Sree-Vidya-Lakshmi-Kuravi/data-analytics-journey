@@ -233,3 +233,19 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Applied window functions (ROW_NUMBER, RANK, DENSE_RANK) with PARTITION BY and ORDER BY to perform ranking and top-N analysis within groups.
 - Compared GROUP BY and window functions on the same problems to clearly understand when aggregation vs row-level analysis is required.
 - Wrote interview-grade consolidation queries combining joins and window functions, with clear comments explaining business intent and use cases.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Excel Data Cleaning & Analysis
+
+- Cleaned the dataset by removing duplicates, fixing missing values, and correcting text, date, and number formats.
+- Created business columns such as estimated cost, profit, and performance labels using Excel formulas.
+- Summarized key metrics and category-wise performance in a clear analysis sheet.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Excel Dashboard
+
+- Created pivot tables to analyze sales and profit by category and over time.
+- Built a simple dashboard with key numbers, charts, and filters for easy understanding.
+- Added an insights sheet with main findings, risks, and recommendations.
