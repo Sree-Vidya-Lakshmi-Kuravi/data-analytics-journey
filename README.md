@@ -236,7 +236,7 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Excel Data Cleaning & Analysis
+## Day 08 - Excel Data Cleaning & Analysis
 
 - Cleaned the dataset by removing duplicates, fixing missing values, and correcting text, date, and number formats.
 - Created business columns such as estimated cost, profit, and performance labels using Excel formulas.
@@ -244,7 +244,7 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Excel Dashboard
+## Day 09 - Excel Dashboard
 
 - Created pivot tables to analyze sales and profit by category and over time.
 - Built a simple dashboard with key numbers, charts, and filters for easy understanding.
