@@ -126,3 +126,7 @@ Use case: Joining tables using a common key (similar to SQL JOIN).
 - Functions in Excel mirror SQL and Pandas logic
 - Power Query and Pivot Tables are essential analytics tools
 - Excel remains highly relevant in real-world data analyst roles
+
+## Excel Dashboard
+### Hotel Bookings Cancellation Dashboard
+<img width="1874" height="884" alt="image" src="https://github.com/user-attachments/assets/85edeb8a-327a-41a7-8c30-6daf8ee4f520" />
