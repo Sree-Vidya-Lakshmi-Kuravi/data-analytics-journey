@@ -1,4 +1,4 @@
-**📊 Data Analytics Journey (40 Days)**
+# 📊 Data Analytics Journey (40 Days)
 
 This repository documents my 40-day journey to become job-ready as a Data Analyst.
 
@@ -249,3 +249,31 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Created pivot tables to analyze sales and profit by category and over time.
 - Built a simple dashboard with key numbers, charts, and filters for easy understanding.
 - Added an insights sheet with main findings, risks, and recommendations.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 10 & 11 – Power BI End-to-End Business Report
+### Focus:
+
+- Build an end-to-end Power BI solution from data modeling to business insights
+- Emphasize clarity, KPIs, and decision-making over complex visuals
+
+### Tasks Completed:
+- Loaded and cleaned Superstore sales data using Power Query
+- Standardized column names and fixed data types
+- Designed a clean and efficient data model
+- Created core DAX measures for sales analysis
+- Built a one-page business dashboard with KPIs and trends
+- Added filters for interactive analysis
+- Documented insights and recommendations
+
+### Key Insights:
+- Technology is the highest-performing category by total sales
+- Consumer segment contributes the largest share of revenue
+- Sales show consistent growth from 2015 to 2018
+- Sub-category analysis highlights top-performing and low-performing products
+
+### Outcome:
+- Delivered a business-ready Power BI report
+- Demonstrated data modeling, DAX, and storytelling skills
+- Strengthened BI and visualization capabilities
