@@ -277,3 +277,10 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Delivered a business-ready Power BI report
 - Demonstrated data modeling, DAX, and storytelling skills
 - Strengthened BI and visualization capabilities
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Phase 2 – Consolidation
+Hands-on end-to-end data analysis using real-world datasets.
+Includes Pandas, SQL, Excel, Power BI, and a mini project focused on business insights.
+
