@@ -22,6 +22,13 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 📌 Daily progress is pushed to this repository.
 
+
+## Quick Navigation
+- Phase 1: WsCube Tool Coverage
+- Phase 2: Consolidation (Pandas, SQL, Excel, Power BI)
+- Phase 2 Mini Project
+
+
 ## Progress Log
 
 ### Day 0 – Setup Completed
